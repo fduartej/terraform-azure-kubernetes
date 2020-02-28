@@ -162,7 +162,7 @@ variable "api_mgt_prd" {
     type = map
     default = {
         "name"         = "prd01use1"
-        "company"      = "inteligo"
+        "company"      = "contoso"
         "sku_name"     = "Basic_1"
     }
 } 
